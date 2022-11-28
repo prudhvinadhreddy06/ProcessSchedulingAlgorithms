@@ -35,3 +35,6 @@ g++ -Wall -I/usr/include/python3.8 -lpython3.8 main.cpp -o main
 ```
 ### Output
 All the plots will be saved inside `./plots``
+
+### Github link
+* https://github.com/prudhvinadhreddy06/ProcessSchedulingAlgorithms
